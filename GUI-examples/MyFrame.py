@@ -1,3 +1,13 @@
+"""
+  Exercise with a simple Frame generated with Tk Libray
+  This example uses tkMessageBox and tkSimpleDialog to request and show user data
+  
+  Some simple modifications were made from the tutorials, just for testing purposes,
+  this modification are related with the import XXX as XX 
+  
+  February 6, 2013
+"""
+
 #from Tkinter import *
 import Tkinter as _tk
 import tkMessageBox as mbox
